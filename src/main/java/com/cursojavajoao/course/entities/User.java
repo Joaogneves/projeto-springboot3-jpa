@@ -1,4 +1,4 @@
-package com.cursojavajoao.couse.entities;
+package com.cursojavajoao.course.entities;
 
 import java.io.Serializable;
 import java.util.Objects;
